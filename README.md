@@ -1,7 +1,7 @@
 # Intensity-Based-MRI-Registration
-# Written by:
-# Md. Kamrul Hasan
-# E-mail: kamruleeekuet@gmail.com
+## Written by:
+## Md. Kamrul Hasan
+## E-mail: kamruleeekuet@gmail.com
 
 Image registration is one of the prior steps for building computational model and Computer added diagnosis   (CAD) which  is the processes of transferring images into a common coordinate system,  so that corresponding pixels represents  homologous  biological  points  [1].  In  this  lab,  we  have  familiarized  with  the  concepts  and  framework  of  image  registration  based  on  two  different  transformation  techniques  namely  “rigid  transformation”  and  “affine  transformation” for brain MRI. Comparisons also have been accomplished for single-resolution and multi-resolution  registration for the same images  in both  rigid transformation  and  affine transformation. Different  quantitative and  qualitative metric performance are also been observed for all the experiments. 
 
@@ -21,7 +21,7 @@ Multi-resolution mean representing or analyzing image at more than one resolutio
 
 
 
-# Reference
+## Reference
 
 1. Viergever, M., Maintz, J., Klein, S., Murphy, K., Staring, M. and Pluim, J. (2016). A survey of medical image registration – under review. Medical Image Analysis, 33, pp.140-144. <b>
 2. Marti, Robert. "MIRA: Week 1: Intensity based Image registration,pp.5, 25 October 2018. <b> 
